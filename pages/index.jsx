@@ -9,8 +9,8 @@ export default function Index() {
         <div className="flex w-full justify-center">
       <img width="500" />
       </div>
-        <p className="animateHeader text-4xl font-extrabold text-center text-white">
-          Proxy
+        <p className="animateHeader text-4xl font-bold text-center text-white">
+          Discord Deneyiminizi Üst Düzeye Çıkaracak Tek Bot Proxy
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
        How about moderating your own server with MusicMaker? Create your own free world and create your own playlist, experience this pleasure with the best sounds. 
