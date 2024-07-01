@@ -1,7 +1,5 @@
 import Link from "next/link";
 import Image from "next/image";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCrown } from '@fortawesome/free-solid-svg-icons'
 
 export default function Index() {
 	
@@ -43,7 +41,7 @@ export default function Index() {
        opacity: '1' // başlangıç opaklığı
    }}
    href="discord.gg/volkankonak"
-   <FontAwesomeIcon icon={faCrown} className="mr-2" /> Premium'a Yükselt!
+Premium'a Yükselt!
 </a>
   </Link>
         </div>
