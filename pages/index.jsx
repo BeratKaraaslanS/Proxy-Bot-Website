@@ -34,7 +34,7 @@ Vote MusicMaker</a>
         </div>
 
         <div style={{ zIndex: '-1' }} className="hidden xl:block undrag pointer-events-none opacity-10 -left-[10vw] absolute top-[8vw] h-[35vw] flex-shrink-0 grayscale rotate-[1deg]">
-        <Image width="400" height="400"  />
+        <Image width="1100" height="400"  />
         </div>
         <div style={{ zIndex: '-1' }} className="hidden xl:block undrag opacity-10 pointer-events-none -right-[15vw] absolute top-[13vw] h-[90vw] grayscale -rotate-9">
         <Image  width="400" height="400" />
