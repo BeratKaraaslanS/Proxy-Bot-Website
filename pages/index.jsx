@@ -9,7 +9,7 @@ export default function Index() {
         <div className="flex w-full justify-center">
       <img width="500" />
       </div>
-        <p className="animateHeader text-4xl font-medium text-center text-white">
+        <p className="animateHeader text-4xl font-bold text-center text-white">
           Discord Deneyiminizi Üst Düzeye Çıkaracak Tek Bot Proxy
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
