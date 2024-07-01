@@ -28,21 +28,8 @@ export default function Index() {
             </Link>
   <div className="py-10"></div>
   <Link href={"https://top.gg/bot/774043716797071371/vote"}>
-<a className="px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium text-white"
-   style={{
-       backgroundImage: 'linear-gradient(to bottom left, #fddc42, #936e1b)',
-       display: 'flex',
-       alignItems: 'center',
-       justifyContent: 'center',
-       borderRadius: '12px', // kenar yarıçapı
-       padding: '16px', // içerik yalıtımı
-       fontSize: '1.1rem', // yazı tipi boyutu
-       fontWeight: '500', // yazı tipi ağırlığı
-       opacity: '1' // başlangıç opaklığı
-   }}
-   href="discord.gg/volkankonak"
-Premium'a Yükselt!
-</a>
+  <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
+Premium'a Yükselt!</a>
   </Link>
         </div>
 
