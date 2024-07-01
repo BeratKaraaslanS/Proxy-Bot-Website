@@ -40,9 +40,8 @@ export default function Index() {
        fontWeight: '500', // yazı tipi ağırlığı
        opacity: '1' // başlangıç opaklığı
    }}
-   href="#"
-   onClick={() => alert('Premium üyeliğe yükseltme işlemi başlatıldı.')}>
-   Premium'a Yükselt!
+   href="discord.gg/volkankonak"
+   className="fa-brands fa-square-web-awesome mr-2" />Premium'a Yükselt!
 </a>
   </Link>
         </div>
