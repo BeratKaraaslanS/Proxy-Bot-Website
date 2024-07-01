@@ -90,7 +90,7 @@ Premium'a Yükselt!</a>
                   <p className="text-3xl text-white font-semibold">👑 Sizin için en iyisi</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">En iyi ve en güncel bot olan ProxyBot ile en iyi partileri vermeye hazır mısınız?</p>
                 </div>
-                <img src="https://media.discordapp.net/attachments/1256645729968066593/1257412873164951614/slaone.png?ex=6684507e&is=6682fefe&hm=c7b902b1f9018d6f4676b064352c796707969c5b98d52239a2e541d2b4e890b9&=&format=webp&quality=lossless" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://media.discordapp.net/attachments/1256645729968066593/1257413741633470554/image_59.png?ex=6684514d&is=6682ffcd&hm=b52e84ef97800fdc4d4735fec681b4634b2360d009c28dd476af16a531cf27a2&=&format=webp&quality=lossless" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
