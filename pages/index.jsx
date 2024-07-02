@@ -85,7 +85,7 @@ Premium'a Yükselt!</a>
 
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg">
               <>
-                <div className="lg:mx-4 lg:p-8 py-4 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
+                <div className="">
                   <img src="https://media.discordapp.net/attachments/907378577253744640/1176892776877666325/image.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">👑 Sizin için en iyisi</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">En iyi ve en güncel bot olan ProxyBot ile en iyi partileri vermeye hazır mısınız?</p>
